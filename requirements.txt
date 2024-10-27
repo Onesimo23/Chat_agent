@@ -1,0 +1,2 @@
+openai==0.28.0  # Dependência para interagir com a API do ChatGPT
+tkinter         # Biblioteca padrão para interface gráfica (incluída no Python)
